@@ -168,7 +168,7 @@ export default function Footer() {
 					<div className="row">
 						<div className="col-md-6 text-left">
 							© 2021-2023
-							<a className="text-white" href="#">
+							<a className="text-white ml-2" href="/">
 								SnipShop.com
 							</a>
 						</div>
